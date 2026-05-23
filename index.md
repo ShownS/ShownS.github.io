@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Welcome to My Portfolio"
+title: "Steele Shown"
 ---
 
-Hello! I am a developer specializing in building clean, sustainable web solutions. Check out my work below.
+I am a mechanical engineering graduate student with experience in mechanical design, systems integration, and mechatronics.
