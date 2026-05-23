@@ -1,0 +1,21 @@
+title: "My Portfolio"
+name: "Your Name"
+description: "Web Developer Portfolio"
+url: "https://github.io"
+
+repository: "username/username.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Keeps theme updated
+minimal_mistakes_skin: "mint"
+
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
