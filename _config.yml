@@ -1,16 +1,32 @@
-title: "My Portfolio"
+title: "Mechanical Engineering Portfolio"
 name: "Steele Shown"
-description: "Mechanical Engineering Portfolio"
-url: "https://github.io"
+description: "Mechanical engineering portfolio focused on mechatronics, robotics, and integrated system design."
 
-repository: "username/username.github.io"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Keeps theme updated
+url: "https://ShownS.github.io"
+baseurl: ""
+
+repository: "ShownS/ShownS.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: "neon"
-
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+author:
+  name: "Steele Shown"
+  bio: "Mechanical engineering graduate student focused on mechatronics, robotics, and integrated system design."
+  location: "Oregon, United States"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:YOUR-EMAIL"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "YOUR-LINKEDIN-URL"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "YOUR-GITHUB-URL"
 
 defaults:
   - scope:
