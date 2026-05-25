@@ -15,4 +15,4 @@ Thank you for reviewing my portfolio. I welcome opportunities related to mechani
 
 A current copy of my resume is available below.
 
-[Download Resume](/assets/files/Steele_Shown_Resume.pdf) {: .btn .btn--primary}
+[Download Resume](/assets/files/Resume_Shown.pdf) {: .btn .btn--primary}
