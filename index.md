@@ -11,15 +11,10 @@ title: ""
 I am a mechanical engineering graduate student with experience in mechanical design, system integration, and mechatronics. My work focuses on connecting mechanical hardware, sensors, controls, and software to develop systems that can be built, tested, and improved.
 
 <p>
-  <a class="btn btn--primary" href="/projects/">View Projects</a>
   <a class="btn btn--inverse" href="/assets/files/Steele_Shown_Resume.pdf">Download Resume</a>
 </p>
 
 ---
-
-## Portfolio Focus
-
-This portfolio presents selected academic, professional, and independent work that reflects my development as an engineer. The projects and experiences are organized into three areas: mechatronics and integrated prototyping, robotics and control simulation, and hands-on engineering practice.
 
 ## Featured Areas
 
