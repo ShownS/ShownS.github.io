@@ -1,4 +1,4 @@
-title: "Steele Shown Portfolio"
+title: "My Portfolio"
 name: "Steele Shown"
 description: "Mechanical engineering portfolio focused on mechatronics, robotics, and integrated system design."
 
@@ -20,13 +20,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:YOUR-EMAIL"
+      url: "mailto:ms.shown02@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "YOUR-LINKEDIN-URL"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "YOUR-GITHUB-URL"
+      url: "www.linkedin.com/in/steele-shown"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/Resume_Shown.pdf"
 
 defaults:
   - scope:
