@@ -14,8 +14,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Steele Shown"
-  bio: "Mechanical engineering graduate student focused on mechatronics, robotics, and integrated system design."
+  name: "Connect"
+  bio: "Please feel free to connect with me. I welcome oppurtunites to pursue my passions in mechanical design, mechatronics, and system integration."
   location: "Oregon, United States"
   links:
     - label: "Email"
