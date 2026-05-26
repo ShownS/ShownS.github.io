@@ -14,7 +14,6 @@ I am a mechanical engineering graduate student with experience in mechanical des
   <a class="btn btn--inverse" href="/assets/files/Steele_Shown_Resume.pdf">Download Resume</a>
 </p>
 
----
 
 ## Featured Areas
 
