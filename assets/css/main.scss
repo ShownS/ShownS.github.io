@@ -22,37 +22,42 @@ body,
   background-color: #cfd7d3;
 }
 
-/* Main body text: darker for readability */
+/* Main body text: dark and readable */
 body,
 .page__content,
-.author__bio,
 p,
 li {
-  color: #26322e;
+  color: #1f2926;
 }
 
-/* Headings: emerald / forest green */
+/* Main headings: brighter emerald green */
 h1,
 h2,
 h3,
 h4,
 .page__title,
-.archive__item-title,
-.author__name {
-  color: #1f6b4f;
+.archive__item-title {
+  color: #2a9d72;
 }
 
-/* Links: slightly brighter emerald */
+/* Links: forest/emerald, slightly darker than headings */
 a,
-.page__content a,
-.greedy-nav a {
-  color: #16805f;
+.page__content a {
+  color: #167055;
 }
 
 a:hover,
-.page__content a:hover,
-.greedy-nav a:hover {
+.page__content a:hover {
   color: #0f4f3b;
+}
+
+/* Top navigation links */
+.greedy-nav a {
+  color: #205647;
+}
+
+.greedy-nav a:hover {
+  color: #2a9d72;
 }
 
 /* Horizontal rules / heading borders */
@@ -62,32 +67,40 @@ hr,
   border-bottom-color: #aebbb5;
 }
 
-/* Sidebar links/icons */
+/* Sidebar: readable but quieter than main page */
+.author__name {
+  color: #245648;
+}
+
+.author__bio {
+  color: #25332f;
+}
+
 .author__urls a,
 .author__urls-wrapper button {
-  color: #1f6b4f;
+  color: #263f38;
 }
 
 .author__urls a:hover {
-  color: #0f4f3b;
+  color: #167055;
 }
 
 /* Buttons */
 .btn--primary {
-  background-color: #1f6b4f;
+  background-color: #16805f;
   color: #ffffff !important;
 }
 
 .btn--primary:hover {
-  background-color: #164c3a;
+  background-color: #0f5d45;
 }
 
 .btn--inverse {
-  color: #1f6b4f !important;
-  border-color: #1f6b4f;
+  color: #245648 !important;
+  border-color: #245648;
 }
 
 .btn--inverse:hover {
   color: #ffffff !important;
-  background-color: #1f6b4f;
+  background-color: #245648;
 }
