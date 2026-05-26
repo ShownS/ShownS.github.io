@@ -7,7 +7,6 @@ title: ""
 # Steele Shown
 
 ## Mechanical Engineering Graduate Student  
-### Mechatronics | Robotics | Integrated System Design
 
 I am a mechanical engineering graduate student with experience in mechanical design, system integration, and mechatronics. My work focuses on connecting mechanical hardware, sensors, controls, and software to develop systems that can be built, tested, and improved.
 
