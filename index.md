@@ -11,7 +11,7 @@ title: ""
 I am a mechanical engineering graduate student with experience in mechanical design, system integration, and mechatronics. My work focuses on connecting mechanical hardware, sensors, controls, and software to develop systems that can be built, tested, and improved.
 
 <p>
-  <a class="btn btn--inverse" href="/assets/files/Steele_Shown_Resume.pdf">Download Resume</a>
+  <a class="btn btn--inverse" href="/assets/files/Resume_Shown.pdf">Download Resume</a>
 </p>
 
 
