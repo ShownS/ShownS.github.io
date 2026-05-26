@@ -37,6 +37,3 @@ Professional, instructional, and independent work that strengthened my practical
 
 ---
 
-## Professional Direction
-
-My goal is to contribute to engineering work that connects mechanical design with robotics, controls, and product development. I am especially interested in multidisciplinary roles where I can help design, prototype, test, and refine systems that require both technical depth and practical integration.
