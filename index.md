@@ -9,8 +9,9 @@ title: "Steele Shown"
 
 I am a mechanical engineering graduate student with experience in mechanical design, system integration, and mechatronics. My work focuses on connecting mechanical hardware, sensors, controls, and software to develop systems that can be built, tested, and improved.
 
-[View Projects](/projects/) {: .btn .btn--primary}
-[Download Resume](/assets/files/Resume_Shown.pdf) {: .btn .btn--inverse}
+[View Projects](/projects/)
+
+[Download Resume](/assets/files/Resume_Shown.pdf)
 
 ---
 
