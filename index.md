@@ -1,8 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "Steele Shown"
+title: ""
 ---
+
+# Steele Shown
 
 ## Mechanical Engineering Graduate Student  
 ### Mechatronics | Robotics | Integrated System Design
