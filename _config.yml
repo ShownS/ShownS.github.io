@@ -23,7 +23,7 @@ author:
       url: "mailto:ms.shown02@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/steele-shown"
+      url: "https://linkedin.com/in/steele-shown"
     - label: "Resume"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/files/Resume_Shown.pdf"
