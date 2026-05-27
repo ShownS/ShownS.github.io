@@ -1,7 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Projects & Experience"
-    url: /projects/
-  - title: "Contact"
-    url: /contact/
+  - title: "Mechatronics"
+    url: /projects/mechatronics/
+  - title: "Control Simulation"
+    url: /projects/controls-simulation/
+  - title: "Engineering Practice"
+    url: /projects/engineering-practice/
