@@ -67,6 +67,18 @@ hr,
   border-bottom-color: #aebbb5;
 }
 
+/* Tighten homepage title spacing */
+.page__content h1:first-child {
+  margin-bottom: 0.25rem;
+}
+
+.page__content h1:first-child + h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #aebbb5;
+}
+
 /* Sidebar: readable but quieter than main page */
 .author__name {
   color: #245648;
