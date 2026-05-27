@@ -1,7 +1,8 @@
 ---
-title: "About"
+title: ""
 permalink: /about/
 ---
+# About
 
 I am a mechanical engineering graduate student with a strong interest in mechatronics, robotics, and mechanical product development. My work often focuses on connecting mechanical design with sensors, controls, software, and hands-on prototyping to create systems that can be built, tested, and improved.
 
