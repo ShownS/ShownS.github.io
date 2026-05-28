@@ -39,6 +39,10 @@ h4,
 .archive__item-title {
   color: #0f5f52;
 }
+/* Force page titles, such as About, to match heading color */
+.page__title {
+  color: #0f5f52 !important;
+}
 
 /* Links: teal-green, still distinct and underlined by default */
 a,
