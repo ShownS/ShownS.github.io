@@ -177,13 +177,16 @@ hr,
 }
 
 .featured-area-image {
+  display: block;
   width: 100%;
-  max-height: 320px;
+  max-width: 520px;
+  height: 300px;
   object-fit: cover;
+  object-position: center;
+  margin: 0 auto 1rem auto;
   border-radius: 16px;
   border: 1px solid #aebbb5;
   box-shadow: 0 5px 14px rgba(0, 0, 0, 0.14);
-  margin-bottom: 1rem;
 }
 
 .featured-area p {
