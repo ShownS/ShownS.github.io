@@ -22,33 +22,33 @@ body,
   background-color: #d4d4d4;
 }
 
-/* Main body text: dark and readable */
+/* Main body text: strong contrast */
 body,
 .page__content,
 p,
 li {
-  color: #1f2926;
+  color: #17211e;
 }
 
-/* Main headings: brighter emerald green */
+/* Headings: darker blue-green, less colorblind-risky than bright green */
 h1,
 h2,
 h3,
 h4,
 .page__title,
 .archive__item-title {
-  color: #2B6931
+  color: #0f5f52;
 }
 
-/* Links: forest/emerald, slightly darker than headings */
+/* Links: teal-green, still distinct and underlined by default */
 a,
 .page__content a {
-  color: #167055;
+  color: #006b5f;
 }
 
 a:hover,
 .page__content a:hover {
-  color: #0f4f3b;
+  color: #003f38;
 }
 
 /* Top navigation links */
@@ -79,18 +79,18 @@ hr,
   border-bottom: 1px solid #aebbb5;
 }
 
-/* Sidebar: readable but quieter than main page */
+/* Sidebar: readable but quieter */
 .author__name {
-  color: #245648;
+  color: #25443d;
 }
 
 .author__bio {
-  color: #25332f;
+  color: #27332f;
 }
 
 .author__urls a,
 .author__urls-wrapper button {
-  color: #263f38;
+  color: #29463f;
 }
 
 .author__urls a:hover {
