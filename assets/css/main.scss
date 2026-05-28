@@ -121,3 +121,14 @@ hr,
   color: #ffffff !important;
   background-color: #245648;
 }
+
+
+.about-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  float: right;
+  margin: 0 0 1rem 2rem;
+  border: 3px solid #0f5f52;
+}
