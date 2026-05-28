@@ -127,12 +127,23 @@ hr,
 }
 
 
+/* About page profile photo */
 .about-photo {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 50%;
+  width: 220px;
+  max-width: 38%;
+  height: auto;
   float: right;
-  margin: 0 0 1rem 2rem;
+  margin: 0.25rem 0 1rem 2rem;
+  border-radius: 18px;
   border: 3px solid #0f5f52;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.16);
+}
+@media screen and (max-width: 768px) {
+  .about-photo {
+    float: none;
+    display: block;
+    max-width: 260px;
+    width: 80%;
+    margin: 0.5rem auto 1.5rem auto;
+  }
 }
