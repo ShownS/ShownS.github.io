@@ -23,7 +23,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   <img src="{{ '/assets/images/Sumobot.jpg' | relative_url }}" alt="Sumobot prototype with controller" class="featured-area-image">
 
   <p>
-    Mechanical design, sensing, electronics, and control brought together in working robotic systems.
+    Projects featuring mechanical design, sensor integration, electronic wiring, and controls brought together into functional mechatronic systems.
   </p>
 
   <p>
@@ -39,7 +39,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   <img src="{{ '/assets/images/Quadcopter.png' | relative_url }}" alt="Quadcopter control simulation trajectory" class="featured-area-image">
 
   <p>
-    Simulation-based work focused on robotic motion, control behavior, and system modeling.
+    Projects using simulation software to study how learning-based and classical controllers affect robotic motion and system behavior.
   </p>
 
   <p>
@@ -55,7 +55,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   <img src="{{ '/assets/images/GS.jpg' | relative_url }}" alt="Suzuki GS550E restoration and modification project" class="featured-area-image">
 
   <p>
-    Professional, instructional, and independent work that strengthened my practical engineering judgment, communication skills, and hands-on mechanical experience.
+    Additional professional, instructional, and independent experiences that developed my practical engineering judgment, communication skills, and hands-on mechanical understanding.
   </p>
 
   <p>
