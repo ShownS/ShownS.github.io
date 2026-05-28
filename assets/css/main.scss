@@ -30,6 +30,20 @@ li {
   color: #17211e;
 }
 
+/* Footer / bottom banner color */
+.page__footer {
+  background-color: #0f5f52;
+  color: ##0f5f52;
+}
+
+.page__footer a {
+  color: ##0f5f52;
+}
+
+.page__footer a:hover {
+  color: #006b5f;
+}
+
 /* Headings: darker blue-green, less colorblind-risky than bright green */
 h1,
 h2,
