@@ -1,23 +1,15 @@
 ---
-title: ""
+title: "About"
 permalink: /about/
 ---
-# About
 
-I am a mechanical engineering graduate student with a strong interest in mechatronics, robotics, and mechanical product development. My work often focuses on connecting mechanical design with sensors, controls, software, and hands-on prototyping to create systems that can be built, tested, and improved.
+I am a mechanical engineering graduate student with a background in mechanical product development, mechatronics, and robotics. My experience includes mechanical design, system integration, simulation, prototyping, and multidisciplinary communication. I am especially interested in the development and testing of mechanical systems that include sensors, controls, or software integration.
 
-## Engineering Interests
+My engineering experience has developed through a mix of academic and hands-on work. Through my robotics minor, I have had the opportunity to work on projects that require mechanical design, wiring, programming, validation, and iteration. In simulation-based projects, I have explored how learning-based and classical controllers can be used alongside physical prototyping to study robotic systems in complex environments. I also value my hands-on experience with the restoration and modification of automotive systems, as it strengthened my understanding of how mechanical components interact and reinforced the importance of careful testing and problem solving.
 
-My main interests are in multidisciplinary engineering work, especially projects that require mechanical design, system integration, testing, and iteration. I am interested in how physical systems can be improved by combining mechanical hardware with electronics, controls, and software.
+As I moved further into system integration, communication became an even more important part of my development. Working on teaching teams for undergraduate classes allowed me to practice explaining technical details clearly. Supporting students also taught me to adapt my communication for different levels of experience and interest. On the other side of this, my work with multidisciplinary teams showed me the importance of asking questions when working with professionals from other fields, as those conversations often strengthen my ability to create usable designs.
 
-## Approach to Engineering Work
+My goal is to contribute to engineering teams in product design and mechatronics, where I can combine mechanical design, prototyping, system integration, and multidisciplinary communication to help develop and test useful systems.
 
-I approach engineering problems by trying to understand both the technical requirements and the practical constraints of the system. Many of my projects involve moving from an initial idea or problem statement into a working prototype, then using testing and troubleshooting to refine the design.
 
-## Technical Communication and Leadership
 
-In addition to design and technical work, I value clear engineering communication. My experience as a teaching assistant and undergraduate learning assistant has helped me practice explaining technical ideas, supporting other students, and communicating engineering concepts to different audiences.
-
-## Professional Goals
-
-My goal is to contribute to engineering work related to mechatronics, robotics, and product development. I am especially interested in roles where I can help design, prototype, test, and improve systems that require both mechanical understanding and multidisciplinary integration.
