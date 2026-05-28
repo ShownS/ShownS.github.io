@@ -126,37 +126,13 @@ hr,
   background-color: #245648;
 }
 
-/* Homepage project cards */
-.project-card-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.4rem;
-  margin-top: 1.5rem;
-}
 
-.project-card-horizontal {
-  display: flex;
-  gap: 1.25rem;
-  padding: 1rem;
-  border: 1px solid #aebbb5;
-  border-radius: 16px;
-  background-color: rgba(255, 255, 255, 0.18);
-  text-decoration: none;
-  align-items: center;
-}
 
 .project-card-horizontal:hover {
   background-color: rgba(255, 255, 255, 0.30);
   text-decoration: none;
 }
 
-.project-card-horizontal img {
-  width: 180px;
-  height: 135px;
-  object-fit: cover;
-  border-radius: 12px;
-  flex-shrink: 0;
-}
 
 .project-card-horizontal h3 {
   margin-top: 0;
@@ -182,6 +158,36 @@ hr,
     height: auto;
     max-height: 230px;
   }
+}
+
+/* Homepage featured areas */
+.featured-area {
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #aebbb5;
+}
+
+.featured-area h3 {
+  margin-bottom: 0.8rem;
+}
+
+.featured-area h3 a {
+  color: #006b5f;
+}
+
+.featured-area-image {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 16px;
+  border: 1px solid #aebbb5;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.14);
+  margin-bottom: 1rem;
+}
+
+.featured-area p {
+  margin-top: 0.4rem;
 }
 
 /* About page profile photo */
