@@ -126,6 +126,63 @@ hr,
   background-color: #245648;
 }
 
+/* Homepage project cards */
+.project-card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  margin-top: 1.5rem;
+}
+
+.project-card-horizontal {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1rem;
+  border: 1px solid #aebbb5;
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.18);
+  text-decoration: none;
+  align-items: center;
+}
+
+.project-card-horizontal:hover {
+  background-color: rgba(255, 255, 255, 0.30);
+  text-decoration: none;
+}
+
+.project-card-horizontal img {
+  width: 180px;
+  height: 135px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.project-card-horizontal h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+  color: #0f5f52;
+}
+
+.project-card-horizontal p {
+  margin-top: 0.35rem;
+  margin-bottom: 0;
+  color: #17211e;
+}
+
+/* Make homepage cards stack nicely on smaller screens */
+@media screen and (max-width: 768px) {
+  .project-card-horizontal {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .project-card-horizontal img {
+    width: 100%;
+    height: auto;
+    max-height: 230px;
+  }
+}
 
 /* About page profile photo */
 .about-photo {
