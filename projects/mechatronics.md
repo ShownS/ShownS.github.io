@@ -38,3 +38,6 @@ These projects were completed alongside each other as a way to get more experien
 *PiCar platform used for control, navigation, and remote streaming experiments.*
 
 The robot arm project focused more on object detection and motion routines. The arm used a camera to detect a colored block, load it into a basket, grab the basket, throw the block, and place the basket back on its rest. The most useful part of this project was learning how much the physical setup can affect whether the code works well. The arm and camera struggled to detect and grab objects consistently, especially with only a single 2D camera. Adding the basket and rest made the task more repeatable and simplified the throwing routine in a way that code changes alone could not.
+
+<img src="{{ '/assets/images/RobotArm.png' | relative_url }}" alt="Robot arm setup with basket and block handling fixture" class="project-image">
+*Robot arm setup with the basket and rest used to improve block handling during the throwing routine.*
