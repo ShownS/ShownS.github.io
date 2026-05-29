@@ -225,3 +225,20 @@ hr,
     margin: 0.5rem auto 1.5rem auto;
   }
 }
+
+/* Project page images */
+.project-image {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 1rem auto 0.5rem auto;
+  border-radius: 14px;
+  border: 1px solid #aebbb5;
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.14);
+}
+
+.project-caption,
+.page__content em {
+  color: #33433d;
+}
