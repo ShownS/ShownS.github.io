@@ -27,7 +27,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   </p>
 
   <p>
-    <strong>Featured work:</strong> Mobility scooter automation, Sumobot design and programming, PiCar / robot arm projects
+    <strong>Featured work:</strong> Mobility Scooter Automation, Sumobot Design and Programming, PiCar / Robot Arm Projects
   </p>
 
 </div>
@@ -43,7 +43,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   </p>
 
   <p>
-    <strong>Featured work:</strong> Salp-inspired robot reinforcement learning controller, quadcopter controller simulation
+    <strong>Featured work:</strong> Salp-Inspired Robot Reinforcement Learning Controller Simulation, Quadcopter Controller Simulation
   </p>
 
 </div>
@@ -59,7 +59,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   </p>
 
   <p>
-    <strong>Featured work:</strong> TA Cycleworks / Spectrum prototype shadowing, GS550E restoration and modification, TA/ULA experience
+    <strong>Featured work:</strong> TA Cycleworks / Spectrum Prototype Shadowing, GS550E Restoration and Modification, TA/ULA Experience
   </p>
 
 </div>
