@@ -9,6 +9,8 @@ This section highlights projects that bring together mechanical design, sensing,
 
 ## Mobility Scooter Automation
 
+**Relevant skills:** Sensor integration · Mechanical Design · Python · Raspberry Pi · Wiring · 3D printing · System testing
+
 This project began as a class project and later transferred into research work through Oregon State University’s Robotics Lab. A student had approached the lab asking for help automating his mobility scooter so it could move between the docking point on his vehicle and the driver’s seat. The goal was to help him continue his hobby of drag racing with less reliance on another person to move the scooter into and out of position.
 
 <img src="{{ '/assets/images/Scooter.jpg' | relative_url }}" alt="Mobility scooter automation prototype in the robotics lab" class="project-image">
@@ -21,6 +23,8 @@ The final prototype combined sensors, actuators, and control code so the scooter
 
 ## Sumobot Design and Programming
 
+**Relevant skills:** Embedded control · Electronics integration · Arduino IDE · ESP32 · Mechanical design · Materials selection
+
 For my undergraduate capstone at Oregon State University, I worked with a team of two other students to develop a Sumobot for a Winter Showcase competition. My interest in this project stemmed from my growing interest in controls, integration, and mechanical design. The Sumobot competition required us to design, iterate, and complete a functional remote-controlled robot for a tournament. The process began with concept generation, subsystem mock-ups, and market research before moving into design, testing, and refinement.
 
 My main role was leading the controls, electronics, and overall integration of the robot system. I also assisted with smaller tasks such as parts selection and subsystem design. I initially used readily available electronics to make a prototype drivetrain before moving into final component selection and assembly. The main components were four DC motors, a servo, and an ESP32. Additional smaller electronics, such as buck converters, were also used. I wrote the control code in Arduino IDE using Bluetooth communication and a common controller interface, so the system was easy to operate remotely during competition. I also used aspects of my materials science background to select chassis materials and strengthen 3D printed ABS parts with acetone vapor smoothing.
@@ -31,6 +35,8 @@ My main role was leading the controls, electronics, and overall integration of t
 The final robot earned second place in the tournament based on both match wins and points. The project served as a useful transition to my graduate work because it strengthened my skills in mechanical design, mechatronics, and system integration while giving me hands-on experience with the challenges of building and refining a robotic system.
 
 ## PiCar / Robot Arm Projects
+
+**Relevant skills:** Robotics platforms · Python · Computer vision · Remote operation · Control-code modification · System troubleshooting
 
 These projects were completed alongside each other as a way to get more experience with system control, mechatronic assembly, and common robotics platforms. Both systems came from kits, but still required changes to the existing code and setup to complete more advanced tasks. For the PiCar, I modified the control code so the car could be driven remotely, stream video to a laptop, follow lines with grayscale sensors, use camera-based navigation, and respond to obstacles. I also added Ackermann-style steering behavior in software, which improved drivability even though traction was still a limitation on some surfaces.
 
