@@ -9,7 +9,7 @@ This section highlights projects that bring together mechanical design, sensing,
 
 ## Mobility Scooter Automation
 
-**Relevant skills:** Sensor integration · Mechanical Design · Python · Raspberry Pi · Wiring · 3D printing · System testing
+<p class="skills-line"><strong>Relevant skills:</strong> Sensor integration · Mechanical design · Python · Raspberry Pi · Wiring · 3D printed brackets · System testing</p>
 
 This project began as a class project and later transferred into research work through Oregon State University’s Robotics Lab. A student had approached the lab asking for help automating his mobility scooter so it could move between the docking point on his vehicle and the driver’s seat. The goal was to help him continue his hobby of drag racing with less reliance on another person to move the scooter into and out of position.
 
@@ -23,7 +23,7 @@ The final prototype combined sensors, actuators, and control code so the scooter
 
 ## Sumobot Design and Programming
 
-**Relevant skills:** Embedded control · Electronics integration · Arduino IDE · ESP32 · Mechanical design · Materials selection
+<p class="skills-line"><strong>Relevant skills:</strong> Embedded control · Electronics integration · Arduino IDE · ESP32 · Mechanical design · Materials selection</p>
 
 For my undergraduate capstone at Oregon State University, I worked with a team of two other students to develop a Sumobot for a Winter Showcase competition. My interest in this project stemmed from my growing interest in controls, integration, and mechanical design. The Sumobot competition required us to design, iterate, and complete a functional remote-controlled robot for a tournament. The process began with concept generation, subsystem mock-ups, and market research before moving into design, testing, and refinement.
 
@@ -36,7 +36,7 @@ The final robot earned second place in the tournament based on both match wins a
 
 ## PiCar / Robot Arm Projects
 
-**Relevant skills:** Robotics platforms · Python · Computer vision · Remote operation · Control-code modification · System troubleshooting
+<p class="skills-line"><strong>Relevant skills:</strong> Robotics platforms · Python · Computer vision · Remote operation · Control-code modification · System troubleshooting</p>
 
 These projects were completed alongside each other as a way to get more experience with system control, mechatronic assembly, and common robotics platforms. Both systems came from kits, but still required changes to the existing code and setup to complete more advanced tasks. For the PiCar, I modified the control code so the car could be driven remotely, stream video to a laptop, follow lines with grayscale sensors, use camera-based navigation, and respond to obstacles. I also added Ackermann-style steering behavior in software, which improved drivability even though traction was still a limitation on some surfaces.
 
