@@ -9,7 +9,7 @@ This section focuses on simulation-based robotics and control work. These projec
 
 ## Salp-Inspired Robot RL Controller Simulation
 
-**Relevant skills:** Reinforcement learning · PPO · MuJoCo · Parameter tuning · Simulation-based research · Technical communication · Multidisciplinary team
+<p class="skills-line"><strong>Relevant skills:</strong> Reinforcement learning · PPO · MuJoCo · Parameter tuning · Simulation-based research · Technical communication</p>
 
 This project focused on using reinforcement learning to control a simulated salp-inspired robot. Salps are underwater organisms that move using jet propulsion. This propulsion system leads to their robotic equivalent being underactuated, meaning that they cannot directly control all directions of motion. The group explored whether a learning-based controller could train a simulated salp robot to reach target points without requiring separate motion planners.
 
@@ -22,7 +22,7 @@ The final work used Proximal Policy Optimization in a MuJoCo simulation environm
 
 ## Quadcopter Controller Simulation
 
-**Relevant skills:** LQR control · MATLAB simulation · Dynamic modeling · Disturbance testing · Motor-loss modeling · Control analysis
+<p class="skills-line"><strong>Relevant skills:</strong> LQR control · MATLAB simulation · Dynamic modeling · Disturbance testing · Motor-loss modeling · Control analysis</p>
 
 The goal of this project was to model a simplified quadcopter system and test how a Linear Quadratic Regulator (LQR) controller responded to realistic scenarios. These included wind forces, added payloads, and motor loss. The scenarios were used to test the controller under conditions closer to real-world operation instead of only using an ideal simulation environment.
 
