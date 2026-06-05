@@ -13,10 +13,6 @@ This section includes additional experiences that were foundational to my engine
 
 These experiences all stemmed from my internship at TA Cycleworks. I worked on general motorcycle maintenance and restoration, which gave me experience diagnosing mechanical issues, working with existing mechanisms, and designing custom parts when replacement parts could not be found. This led me to the Suzuki GS550E as an independent project, giving me the chance to work through troubleshooting, part selection, modification, testing, and mechanical design on my own.
 
-<p class="skills-line"><strong>Relevant skills:</strong> Mechanical troubleshooting · Custom part design · CAD/CNC awareness · Maintenance and restoration · Design for manufacturability</p>
-
-These experiences all stemmed from my time as an intern at TA Cycleworks. I worked on general motorcycle maintenance and restoration, which gave me experience diagnosing mechanical issues, working with existing mechanisms, and designing custom parts when replacement parts could not be found new. This led me to the Suzuki GS550E as a personal passion project, where I had the chance to work through troubleshooting, part selection, modification, testing, and mechanical design on my own.
-
 <img src="{{ '/assets/images/GS.jpg' | relative_url }}" alt="Suzuki GS550E restoration and modification project" class="project-image">
 
 *Suzuki GS550E restoration and modification project connected to my hands-on mechanical work and manufacturing shadowing.*
