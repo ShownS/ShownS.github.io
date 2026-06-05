@@ -13,6 +13,16 @@ This section includes professional, instructional, and independent work that hel
 
 These experiences all stemmed from my time as an intern at TA Cycleworks. I worked on general motorcycle maintenance and restoration, which gave me experience diagnosing mechanical issues, working with existing mechanisms, and designing custom parts when replacement parts could not be found new. This led me to the Suzuki GS550E as an independent project, where I had the chance to work through troubleshooting, part selection, modification, testing, and mechanical design on my own.
 
+## Hands-On Mechanical Work and Manufacturing Exposure
+
+<img src="{{ '/assets/images/GS.jpg' | relative_url }}" alt="Suzuki GS550E restoration and modification project" class="project-image">
+
+*Suzuki GS550E restoration and modification project connected to my hands-on mechanical work and manufacturing shadowing.*
+
+<p class="skills-line"><strong>Relevant skills:</strong> Mechanical troubleshooting · Custom part design · CAD/CNC awareness · Maintenance and restoration · Design for manufacturability</p>
+
+These experiences all stemmed from my time as an intern at TA Cycleworks...
+
 The GS550E and other internship projects strengthened my hands-on understanding of how mechanical systems interact. Understanding general assemblies and their impact on a bike’s overall function was crucial when making even minor changes, since those changes often required careful testing and analysis rather than isolated repairs. This helped develop my practical judgment around mechanical design and how individual parts fit into a larger system.
 
 Through designing my own parts for the GS550E, I had the opportunity to shadow work at Spectrum Prototype. During this visit, I learned more about CAD, machining, and specific CNC operations. This gave me the chance to connect topics from my undergraduate coursework to actual manufactured parts, while also learning from individuals who have worked in the machining industry for years. Their knowledge and feedback helped me better understand the importance of creating designs that not only function properly, but also support cost-effective manufacturing.
