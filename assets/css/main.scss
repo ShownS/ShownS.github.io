@@ -53,8 +53,9 @@ h4,
 .archive__item-title {
   color: #0f5f52;
 }
-/* Force page titles, such as About, to match heading color */
-.page__title {
+/* Make automatic page titles match heading color */
+.page__title,
+.page__title a {
   color: #0f5f52 !important;
 }
 
