@@ -37,11 +37,11 @@ li {
 }
 
 .page__footer a {
-  color: #0f5f52;
+  color: #ffffff;
 }
 
 .page__footer a:hover {
-  color: #006b5f;
+  color: #ffffff;
 }
 
 /* Headings: darker blue-green, less colorblind-risky than bright green */
@@ -53,11 +53,16 @@ h4,
 .archive__item-title {
   color: #0f5f52;
 }
-/* Force Minimal Mistakes page titles to match site headings */
-.page .page__title,
-.page .page__title a,
+/* Hide the empty automatic page title only on homepage */
+body.layout--single .page__title:empty {
+  display: none;
+}
+
+/* Force automatic page titles to match heading color */
 .page__title,
-.page__title a {
+.page__title a,
+.page h1.page__title,
+.initial-content h1.page__title {
   color: #0f5f52 !important;
 }
 /* Additional title overrides */
