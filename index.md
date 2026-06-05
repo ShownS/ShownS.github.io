@@ -4,7 +4,7 @@ author_profile: true
 title: null
 ---
 
-# Steele Shown
+
 ## Mechanical Engineering Graduate Student  
 
 I am a mechanical engineering graduate student with an interest in mechanical design, mechatronics, and system integration. My work focuses on connecting mechanical hardware, sensors, controls, and software to build, test, and improve systems. Through these experiences, I've learned to approach engineering projects by connecting design to testing, integration, and functionality through communication and efficient prototyping.
