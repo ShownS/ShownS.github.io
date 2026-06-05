@@ -5,7 +5,7 @@ title: "Engineering Practice and Hands-On Experience"
 permalink: /projects/engineering-practice/
 ---
 
-This section includes professional, instructional, and independent work that helped develop my practical engineering judgment, mechanical troubleshooting skills, and ability to communicate technical ideas clearly.
+This section includes experiences that helped me build practical engineering judgment outside of traditional class projects. Through motorcycle maintenance and restoration, my own GS550E project, exposure to CAD and CNC manufacturing, and work on undergraduate teaching teams, I developed a better understanding of how mechanical systems are built, maintained, explained, and improved. These experiences connect closely to my interest in engineering work that combines hands-on problem solving, clear communication, and an understanding of how design choices affect real systems.
 
 ## TA Cycleworks, Spectrum Prototype, and GS550E
 
