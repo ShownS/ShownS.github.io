@@ -13,8 +13,6 @@ This section includes professional, instructional, and independent work that hel
 
 These experiences all stemmed from my time as an intern at TA Cycleworks. I worked on general motorcycle maintenance and restoration, which gave me experience diagnosing mechanical issues, working with existing mechanisms, and designing custom parts when replacement parts could not be found new. This led me to the Suzuki GS550E as an independent project, where I had the chance to work through troubleshooting, part selection, modification, testing, and mechanical design on my own.
 
-## Hands-On Mechanical Work and Manufacturing Exposure
-
 <p class="skills-line"><strong>Relevant skills:</strong> Mechanical troubleshooting · Custom part design · CAD/CNC awareness · Maintenance and restoration · Design for manufacturability</p>
 
 These experiences all stemmed from my time as an intern at TA Cycleworks. I worked on general motorcycle maintenance and restoration, which gave me experience diagnosing mechanical issues, working with existing mechanisms, and designing custom parts when replacement parts could not be found new. This led me to the Suzuki GS550E as a personal passion project, where I had the chance to work through troubleshooting, part selection, modification, testing, and mechanical design on my own.
