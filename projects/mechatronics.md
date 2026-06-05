@@ -14,11 +14,20 @@ This section showcases projects that brought together mechanical design, sensing
 This project began as a class project and later transferred into research work through Oregon State University’s Robotics Lab. A student had approached the lab asking for help automating his mobility scooter so it could move between the docking point on his vehicle and the driver’s seat. The goal was to help him continue his hobby of drag racing with increased independence by automating the processes he was unable to handle solo.
 
 <img src="{{ '/assets/images/Scooter.jpg' | relative_url }}" alt="Mobility scooter automation prototype in the robotics lab" class="project-image">
+
 *Mobility scooter prototype during integration and testing.*
 
-The project was handed off to a group of five robotics students, including myself, to build a remote controlled prototype that the lab could later make fully autonomous with additional software and hardware. My main responsibility was the distance monitoring subsystem, along with assisting in integration and control code debugging. I started by sourcing ultrasonic distance sensors and designing 3D printed mounting bracketry. I then built wiring for the system, wrote Python code for use on a Raspberry Pi, and ran tests to revise the subsystem during integration.
+The project was handed off to a group of five robotics students, including myself, to build a remote-controlled prototype that the lab could later make fully autonomous with additional software and hardware. My main responsibility was the distance monitoring subsystem, along with assisting in integration and control-code debugging. I worked on these tasks in the following order:
 
-The final prototype combined sensors, actuators, and control code so the scooter could be controlled remotely while giving the user information about the scooter’s surroundings. This project strengthened my interest in mechatronics because it required mechanical design, electronics, software, testing, and communication to work together in a physical system. It also gave me experience with early product development, where the goal is not only to make a prototype function, but to understand how each subsystem affects the usability of the full design.
+- Sourcing ultrasonic distance sensors
+- Designing and 3D printing mounting bracketry
+- Building and connecting wiring harnesses
+- Developing Python code for use on a Raspberry Pi
+- Running testing procedures for integration
+
+The final prototype combined sensors, actuators, and control code so the scooter could be controlled remotely while giving the user information about the scooter’s surroundings. 
+
+This project strengthened my interest in mechatronics because it required mechanical design, electronics, software, testing, and communication to work together in a physical system. It also gave me experience with early product development, where the goal is not only to make a prototype function, but to understand how each subsystem affects the usability of the full design.
 
 
 ## Sumobot Design and Programming
@@ -27,9 +36,18 @@ The final prototype combined sensors, actuators, and control code so the scooter
 
 For my undergraduate capstone at Oregon State University, I worked with a team of two other students to develop a Sumobot for a Winter Showcase competition. My interest in this project stemmed from my growing interest in controls, integration, and mechanical design. The Sumobot competition required us to design, iterate, and complete a functional remote-controlled robot for a tournament. The process began with concept generation, subsystem mock-ups, and market research before moving into design, testing, and refinement.
 
-My main role was leading the controls, electronics, and overall integration of the robot system. I also assisted with smaller tasks such as parts selection and subsystem design. I initially used readily available electronics to make a prototype drivetrain before moving into final component selection and assembly. The main components were four DC motors, a servo, and an ESP32. Additional smaller electronics, such as buck converters, were also used. I wrote the control code in Arduino IDE using Bluetooth communication and a common controller interface. These were chosen so the system was easy to operate and backup controllers could be used during competition. I also used aspects of my materials science background to select chassis materials and strengthen 3D printed ABS parts with acetone vapor smoothing.
+My main role was leading the controls, electronics, and overall integration of the robot system. I also assisted with smaller tasks such as parts selection and subsystem design. I initially used readily available electronics to make a prototype drivetrain before moving into final component selection and assembly. The main components throughout testing and final assembly were:
+
+- Four DC motors
+- One high-torque servo
+- Two motor drive boards
+- One ESP32
+- Supporting electronics, such as buck converters
+
+I wrote the control code in Arduino IDE using Bluetooth communication and a common controller interface. This approach was chosen so the system was easy to operate and backup controllers could be used during competition. I also used aspects of my materials science background to select chassis materials and strengthen 3D printed ABS parts with acetone vapor smoothing.
 
 <img src="{{ '/assets/images/Sumobot.jpg' | relative_url }}" alt="Sumobot prototype and controller" class="project-image">
+
 *Remote-controlled Sumobot prototype developed for OSU’s Winter Showcase.*
 
 The final robot earned second place in the tournament based on both match wins and points. The project served as a useful transition to my graduate work because it strengthened my skills in mechanical design, mechatronics, and system integration while giving me hands-on experience with the challenges of building and refining a robotic system.
