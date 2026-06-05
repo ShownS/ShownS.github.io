@@ -3,7 +3,7 @@ name: "Steele Shown"
 description: "Mechanical engineering portfolio focused on mechatronics, robotics, and integrated system design."
 
 url: "https://ShownS.github.io"
-site_icon: /assets/images/favicon.png
+site_icon: /favicon.ico
 baseurl: ""
 
 repository: "ShownS/ShownS.github.io"
