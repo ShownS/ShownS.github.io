@@ -5,7 +5,7 @@ title: "Robotics and Control Simulation"
 permalink: /projects/controls-simulation/
 ---
 
-This section focuses more on the software side of my experiences with simulation-based robotics and control work. I developed simulations for the primary goal of testing controller performance before moving to physical prototyping. These projects show how modeling can be used to identify behavior in both ideal and non-ideal environments, highlighting the strengths and limitation of control methods.
+This section focuses more on the software side of my experiences with simulation-based robotics and control work. I developed simulations for the primary goal of testing controller performance before moving to physical prototyping. These projects show how modeling can be used to identify behavior in both ideal and non-ideal environments, highlighting the strengths and limitations of control methods.
 
 ## Salp-Inspired Robot RL Controller Simulation
 
