@@ -7,7 +7,7 @@ title: ""
 # Steele Shown
 ## Mechanical Engineering Graduate Student  
 
-I am a mechanical engineering graduate student with experience in mechanical design, system integration, and mechatronics. My work focuses on connecting mechanical hardware, sensors, controls, and software to build, test, and improve upon systems.
+I am a mechanical engineering graduate student with an interest in mechanical design, mechatronics, and system integration. My work focuses on connecting mechanical hardware, sensors, controls, and software to build, test, and improve systems. Through these experiences, I've learned to approach engineering projects by connecting design to testing, integration, and functionality through communication and efficient prototyping.
 
 <p>
   <a class="btn btn--inverse" href="/assets/files/Resume_Shown.pdf">Download Resume</a>
@@ -59,7 +59,7 @@ I am a mechanical engineering graduate student with experience in mechanical des
   </p>
 
   <p>
-    <strong>Featured work:</strong> TA Cycleworks / Spectrum Prototype Shadowing, GS550E Restoration and Modification, TA/ULA Experience
+    <strong>Featured work:</strong> TA Cycleworks, Spectrum Prototype Shadowing, GS550E Restoration, TA/ULA Experience
   </p>
 
 </div>
