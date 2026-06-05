@@ -17,21 +17,32 @@ This project focused on using reinforcement learning to control a simulated salp
 
 *Salp-inspired robot simulation used to study learning-based locomotion and target reaching.*
 
-My role on the group research project was mainly helping connect the simulation and controls aspects of the work. Because of this, I worked across both parts of the project to help make sure integration went smoothly. This included contributing to the framing of the problem, tuning parameters for the reinforcement learning controller, adjusting parts of the learning approach, and communicating the project cohesively in the final report.
+My role on the group research project was mainly helping connect the simulation and controls aspects of the work. Because of this, I worked across both parts of the project to help make sure integration went smoothly. This included the following contributions:
 
-The final work used Proximal Policy Optimization in a MuJoCo simulation environment to train the salp robot to move toward randomized target points. The project gave me experience with learning-based control methods, simulation-based research, and showed me the importance of clear communication when working with team members focused on different parts of a technical problem. It also served as my first experience using AI methods in controls, allowing me to better understand how AI functions and is tuned for controls.
+- Problem framing and assumptions
+- Adjustments to learning parameters
+- Control approach and simulation integration
+- Communication and cohesion in the report
+
+The final work used Proximal Policy Optimization in a MuJoCo simulation environment to train the salp robot to move toward randomized target points. The project gave me experience with learning-based control methods, simulation-based research, and showed me the importance of clear communication when working with team members focused on different parts of a technical problem. It also served as my first experience using AI methods in controls, allowing me to better understand how AI in learning-based controls functions and is tuned.
 
 ## Quadcopter Controller Simulation
 
 <p class="skills-line"><strong>Relevant skills:</strong> LQR control · MATLAB simulation · Dynamic modeling · Disturbance testing · Motor-loss modeling · Control analysis</p>
 
-The goal of this project was to model a simplified quadcopter system and test how a Linear Quadratic Regulator (LQR) controller responded to realistic scenarios. These included wind forces, added payloads, and motor loss. The scenarios were used to test the controller under conditions closer to real-world operation instead of only using an ideal simulation environment.
+The goal of this project was to model a simplified quadcopter system and test how a Linear Quadratic Regulator (LQR) controller responded to realistic scenarios. These scenarios incldued:
+
+- external wind forces
+- added payloads
+- motor loss
+
+The scenarios were used to test the controller under conditions closer to real-world operation instead of only using an ideal simulation environment.
+
+I primarily worked to develop the simulation and visualize the quadcopter’s response. I also worked with the group on modeling the disturbance scenarios, specifically focusing on the motor-loss conditions. This was done by abruptly setting one motor’s speed to approximately zero and evaluating the stability of the system. This case helped show the limitations of the LQR approach more clearly than the moderate wind or payload tests.
 
 <img src="{{ '/assets/images/Quadcopter.png' | relative_url }}" alt="Quadcopter simulation trajectory and controller response" class="project-image">
 
 *Quadcopter simulation used to evaluate controller response under wind, payload, and motor-loss scenarios.*
-
-I primarily worked to develop the simulation and visualize the quadcopter’s response. I also worked with the group on modeling the disturbance scenarios, specifically focusing on the motor-loss conditions. This was done by abruptly setting one motor’s speed to approximately zero and evaluating the stability of the system. This case helped show the limitations of the LQR approach more clearly than the moderate wind or payload tests.
 
 Final results showed that the LQR controller performed well for moderate wind and payload changes, but motor loss exposed the limits of the simplified controller. The project strengthened my understanding of classical control methods, as well as how to simulate them in non-ideal environments. An additional key takeaway was that controller performance depends heavily on the assumptions used to simplify a system, especially when the simulation moves away from ideal conditions.
 
