@@ -9,7 +9,7 @@ This section showcases projects that brought together mechanical design, sensing
 
 ## Mobility Scooter Automation
 
-<p class="skills-line"><strong>Relevant skills:</strong> Sensor integration · Mechanical design · Python · Raspberry Pi · Wiring · 3D printed brackets · System testing</p>
+<p class="skills-line"><strong>Relevant skills:</strong> Sensor integration · Mechanical design · CAD · Python · Raspberry Pi · Wiring · 3D printed brackets · System testing</p>
 
 This project began as a class project and later transferred into research work through Oregon State University’s Robotics Lab. A student had approached the lab asking for help automating his mobility scooter so it could move between the docking point on his vehicle and the driver’s seat. The goal was to help him continue his hobby of drag racing with increased independence by automating the processes he was unable to handle solo.
 
